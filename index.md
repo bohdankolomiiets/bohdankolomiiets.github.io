@@ -1,10 +1,8 @@
 # Privacy Policy for LinguaMatch
 
-**Effective date:** [Insert Date]
-
 This Privacy Policy describes the policies regarding the collection, use, and disclosure of information for the LinguaMatch mobile application ("Service").
 
-By using the Service, you agree to the collection and use of information in accordance with this policy. Since the Service uses Firebase Crashlytics SDK, the only data collected pertains to app performance and crash reports to improve and maintain the Service's quality.
+By using the Service, you agree to the collection and use of information in accordance with this policy. Since the Service uses [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics), the only data collected pertains to app performance and crash reports to improve and maintain the Service's quality.
 
 ## Information Collection And Use
 
