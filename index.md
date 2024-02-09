@@ -39,6 +39,4 @@ The security of your data is important to us, but remember that no method of tra
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us:
-
-- **Support Email:** bohdan.kolomiiets.tech@gmail.com
+If you have any questions about this Privacy Policy, please contact us: **bohdan.kolomiiets.tech@gmail.com** 
