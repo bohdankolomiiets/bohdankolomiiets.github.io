@@ -1,4 +1,4 @@
-# Privacy Policy for LinguaMatch
+# LinguaMatch Privacy Policy
 
 This Privacy Policy describes the policies regarding the collection, use, and disclosure of information for the LinguaMatch mobile application ("Service").
 
