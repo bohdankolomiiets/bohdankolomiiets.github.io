@@ -1,37 +1,43 @@
-Privacy Policy for LifeSpin
+# LifeSpin Privacy Policy
 
-Last Updated: May 24, 2024
+This Privacy Policy describes the policies regarding the collection, use, and disclosure of information for the LifeSpin mobile application ("Service").
 
-Your privacy is a priority for us. This document explains how the LifeSpin mobile application (hereinafter referred to as the "App") processes your information.
+By using the Service, you agree to the collection and use of information in accordance with this policy. Since the Service is designed for personal growth tracking and prioritizes your privacy, the data you enter is stored exclusively on your local device.
 
-1. Data Collection and Usage
+## Information Collection And Use
 
-LifeSpin is designed as a tool for personal use.
+For a better experience while using our Service, we may require you to provide us with certain information regarding your life balance spheres, scores, and related comments. The information that we request will be retained by your device and used as described in this privacy policy.
 
-Local Storage: All data you enter (life sphere names, balance scores, and comments) is stored exclusively on your local device.
+### Types of Data Collected
 
-No Personal Data Collection: The App does not collect, transmit, or store any of your personal identifiable information (PII), such as name, email address, location, or contacts, on external servers.
+#### Local Application Data
 
-2. Device Permissions
+The Service allows users to enter and track personal data, including:
 
-To function in its current version, the App does not require any special permissions (e.g., access to camera, microphone, or photo gallery).
+* Names of life spheres (e.g., Health, Career, Family)
+* Quantitative balance scores (1-10)
+* Personal comments and reflections for each score change
 
-3. Third-Party Data Sharing
+This data is stored locally within the application's internal storage on your device. We do not have access to this data, and it is never transmitted to our servers or any third-party services.
 
-Since all data is stored locally on your device, we do not share any information with third parties, advertising networks, or analytics services.
+## Use of Data
 
-4. Data Deletion
+The data stored locally by LifeSpin is used solely for the purpose of providing and enhancing the Service, including:
 
-You have full control over your data. You can delete all information at any time by simply uninstalling the App from your device or by clearing the App's data in your smartphone settings.
+* Visualizing your life balance on an interactive radar chart
+* Maintaining a history of your progress and reflections
+* Providing feedback on potential life imbalances based on your inputs
 
-5. Changes to This Privacy Policy
+## Transfer Of Data
 
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated "Last Updated" date.
+Since LifeSpin operates without a backend infrastructure in its current version, your information is processed entirely on your mobile device. No data is transferred to or maintained on computers located outside of your state, province, country, or other governmental jurisdiction.
 
-6. Contact Us
+Please be aware that if you delete the application or clear its data in your device settings, all locally stored information will be permanently lost as there is no external backup provided by the Service.
 
-If you have any questions regarding this Privacy Policy, please contact us at:
+## Security Of Data
 
-Email: bohdan.kolomiiets.tech@gmail.com
+The security of your data is important to us, but remember that no method of electronic storage is 100% secure. While your data stays on your device, we recommend using standard device security features (like PIN or biometrics) to protect access to your smartphone.
 
-This document was created to ensure transparency and compliance with App Store and Google Play Store requirements.
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us: **bohdan.kolomiiets.tech@gmail.com**
